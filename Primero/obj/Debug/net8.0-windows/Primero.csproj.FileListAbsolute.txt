@@ -1,0 +1,17 @@
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\bin\Debug\net8.0-windows\Primero.exe
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\bin\Debug\net8.0-windows\Primero.deps.json
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\bin\Debug\net8.0-windows\Primero.runtimeconfig.json
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\bin\Debug\net8.0-windows\Primero.dll
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\bin\Debug\net8.0-windows\Primero.pdb
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.Form1.resources
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.csproj.GenerateResource.cache
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.AssemblyInfoInputs.cache
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.AssemblyInfo.cs
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.csproj.CoreCompileInputs.cache
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.sourcelink.json
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.dll
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\refint\Primero.dll
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.pdb
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\Primero.genruntimeconfig.cache
+C:\Users\DL951JU\OneDrive - EY\Documents\GitHub\RepoPractica\Primero\obj\Debug\net8.0-windows\ref\Primero.dll
